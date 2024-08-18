@@ -1,0 +1,38 @@
+.sideBar-container {
+    display: flex;
+    height: 100vh;
+}
+
+.sideBar-container .side-bar {
+    width: 80px;
+    height: 100%;
+    background-color: #0C0C51;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-header {
+    margin: 20px 10px;
+}
+
+.logo-header img{
+    width: 35px;
+    height: 35px;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    margin: 18px 0px;
+}
+
+.page-link {
+    padding: 5px;
+    background-color: #092378;
+    border-radius: 9px;
+    align-items: center;
+}
