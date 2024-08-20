@@ -1,4 +1,5 @@
-# CD UI 
+# make a clone repo
+# open the widget dashboard folder
 # npm install 
 # npm run dev 
 
